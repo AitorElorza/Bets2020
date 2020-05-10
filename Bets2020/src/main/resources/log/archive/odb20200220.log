@@ -1,0 +1,69 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-20 11:09:16 #1 store] 
+Database 'C:\Users\julen\Desktop\SIjava\Bets2020-master.zip_expanded\Bets2020-master\src\main\resources\bets.temp' is opened by 5800@DESKTOP-NMKPIHB
+
+[2020-02-20 11:09:16 #2 type.registry] 
+New type domain.Question
+
+[2020-02-20 11:09:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-02-20 11:09:16 #4 type.registry] 
+New type domain.Event
+
+[2020-02-20 11:09:16 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-02-20 11:09:16 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-02-20 11:09:16 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-20 11:56:11 #1 store] 
+Database 'C:\Users\julen\Desktop\SIjava\Bets2020-master.zip_expanded\Bets2020-master\src\main\resources\bets.temp' is opened by 8244@DESKTOP-NMKPIHB
+
+[2020-02-20 11:56:11 #2 type.registry] 
+New type domain.Question
+
+[2020-02-20 11:56:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-02-20 11:56:11 #4 type.registry] 
+New type domain.Event
+
+[2020-02-20 11:56:11 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-02-20 11:56:11 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-02-20 11:56:11 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-20 11:56:40 #1 store] 
+Database 'C:\Users\julen\Desktop\SIjava\Bets2020-master.zip_expanded\Bets2020-master\src\main\resources\bets.temp' is opened by 7612@DESKTOP-NMKPIHB
+
+[2020-02-20 11:56:40 #2 type.registry] 
+New type domain.Question
+
+[2020-02-20 11:56:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-02-20 11:56:40 #4 type.registry] 
+New type domain.Event
+
+[2020-02-20 11:56:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-02-20 11:56:40 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-02-20 11:56:40 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

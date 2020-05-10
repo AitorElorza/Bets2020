@@ -1,0 +1,689 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 16:42:09 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' has been recovered (tr. 890-890)
+
+[2020-05-07 16:42:09 #2 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 33904@DESKTOP-VQ96A8O
+
+[2020-05-07 16:42:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 16:42:09 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 16:42:09 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 16:42:09 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 16:42:09 #7 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 16:42:09 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 16:42:09 #9 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 16:42:09 #10 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 16:42:09 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 16:42:09 #12 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 16:44:04 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' has been recovered (tr. 891-896)
+
+[2020-05-07 16:44:04 #2 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 33004@DESKTOP-VQ96A8O
+
+[2020-05-07 16:44:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 16:44:04 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 16:44:04 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 16:44:04 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 16:44:04 #7 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 16:44:04 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 16:44:04 #9 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 16:44:04 #10 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 16:44:04 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 16:44:04 #12 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 16:46:25 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' has been recovered (tr. 897-899)
+
+[2020-05-07 16:46:25 #2 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 34828@DESKTOP-VQ96A8O
+
+[2020-05-07 16:46:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 16:46:25 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 16:46:25 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 16:46:25 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 16:46:25 #7 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 16:46:25 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 16:46:25 #9 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 16:46:25 #10 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 16:46:25 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 16:46:25 #12 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 16:47:11 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' has been recovered (tr. 900-908)
+
+[2020-05-07 16:47:11 #2 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 14540@DESKTOP-VQ96A8O
+
+[2020-05-07 16:47:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 16:47:11 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 16:47:11 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 16:47:11 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 16:47:11 #7 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 16:47:11 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 16:47:11 #9 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 16:47:11 #10 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 16:47:11 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 16:47:11 #12 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 16:48:31 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 20708@DESKTOP-VQ96A8O
+
+[2020-05-07 16:48:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 16:48:31 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 16:48:31 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 16:48:31 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 16:48:31 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 16:48:31 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 16:48:31 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 16:48:31 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 16:48:31 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 16:48:31 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 17:19:15 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 13480@DESKTOP-VQ96A8O
+
+[2020-05-07 17:19:15 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 17:19:15 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 17:19:15 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 17:19:15 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 17:19:15 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 17:19:15 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 17:19:15 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 17:19:15 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 17:19:15 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 17:19:15 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 17:20:10 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 34444@DESKTOP-VQ96A8O
+
+[2020-05-07 17:20:10 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 17:20:10 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 17:20:10 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 17:20:10 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 17:20:10 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 17:20:10 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 17:20:10 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 17:20:10 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 17:20:10 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 17:20:10 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 17:21:17 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 29472@DESKTOP-VQ96A8O
+
+[2020-05-07 17:21:18 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 17:21:18 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 17:21:18 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 17:21:18 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 17:21:18 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 17:21:18 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 17:21:18 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 17:21:18 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 17:21:18 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 17:21:18 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 17:25:21 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 22520@DESKTOP-VQ96A8O
+
+[2020-05-07 17:25:21 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 17:25:21 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 17:25:21 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 17:25:21 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 17:25:21 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 17:25:21 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 17:25:21 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 17:25:21 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 17:25:21 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 17:25:21 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 18:17:13 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 24792@DESKTOP-VQ96A8O
+
+[2020-05-07 18:17:13 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 18:17:13 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 18:17:13 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 18:17:13 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 18:17:13 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 18:17:13 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 18:17:13 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 18:17:13 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 18:17:13 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 18:17:13 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 18:17:36 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 19160@DESKTOP-VQ96A8O
+
+[2020-05-07 18:17:36 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 18:17:36 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 18:17:36 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 18:17:36 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 18:17:36 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 18:17:36 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 18:17:36 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 18:17:36 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 18:17:36 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 18:17:36 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 18:18:44 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' has been recovered (tr. 909-917)
+
+[2020-05-07 18:18:44 #2 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 13712@DESKTOP-VQ96A8O
+
+[2020-05-07 18:18:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 18:18:44 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 18:18:44 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 18:18:44 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 18:18:44 #7 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 18:18:44 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 18:18:44 #9 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 18:18:44 #10 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 18:18:44 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 18:18:44 #12 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 18:19:52 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' has been recovered (tr. 918-919)
+
+[2020-05-07 18:19:53 #2 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 23968@DESKTOP-VQ96A8O
+
+[2020-05-07 18:19:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 18:19:53 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 18:19:53 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 18:19:53 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 18:19:53 #7 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 18:19:53 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 18:19:53 #9 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 18:19:53 #10 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 18:19:53 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 18:19:53 #12 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 18:21:31 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' has been recovered (tr. 920-921)
+
+[2020-05-07 18:21:31 #2 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 15408@DESKTOP-VQ96A8O
+
+[2020-05-07 18:21:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 18:21:31 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 18:21:31 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 18:21:31 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 18:21:31 #7 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 18:21:31 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 18:21:31 #9 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 18:21:31 #10 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 18:21:31 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 18:21:31 #12 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 18:23:02 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 24668@DESKTOP-VQ96A8O
+
+[2020-05-07 18:23:02 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 18:23:02 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 18:23:02 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 18:23:02 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 18:23:02 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 18:23:02 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 18:23:02 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 18:23:02 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 18:23:02 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 18:23:02 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 18:23:46 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 13140@DESKTOP-VQ96A8O
+
+[2020-05-07 18:23:46 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 18:23:46 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 18:23:46 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 18:23:46 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 18:23:46 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 18:23:46 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 18:23:46 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 18:23:46 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 18:23:46 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 18:23:46 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 18:24:12 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 24912@DESKTOP-VQ96A8O
+
+[2020-05-07 18:24:12 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 18:24:12 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 18:24:12 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 18:24:12 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 18:24:12 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 18:24:12 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 18:24:12 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 18:24:12 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 18:24:12 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 18:24:12 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 18:26:34 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 36216@DESKTOP-VQ96A8O
+
+[2020-05-07 18:26:35 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 18:26:35 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 18:26:35 #4 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 18:26:35 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 18:26:35 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 18:26:35 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 18:26:35 #8 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 18:26:35 #9 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 18:26:35 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 18:26:35 #11 type] 
+Type domain.MultipleBet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 18:28:22 #1 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' has been recovered (tr. 922-924)
+
+[2020-05-07 18:28:22 #2 store] 
+Database 'C:\Users\julen\git\Bets2020Iter2\Bets2020\src\main\resources\bets.temp' is opened by 20820@DESKTOP-VQ96A8O
+
+[2020-05-07 18:28:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 18:28:22 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 18:28:22 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-05-07 18:28:22 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-05-07 18:28:22 #7 type] 
+Type domain.Registered is not enhanced.
+
+[2020-05-07 18:28:22 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2020-05-07 18:28:22 #9 type] 
+Type domain.MoneyTrans is not enhanced.
+
+[2020-05-07 18:28:22 #10 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-05-07 18:28:22 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2020-05-07 18:28:22 #12 type] 
+Type domain.MultipleBet is not enhanced.
+
