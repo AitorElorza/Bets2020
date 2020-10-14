@@ -2,7 +2,6 @@ package businessLogic;
 
 import java.util.Vector;
 import java.util.Date;
-//import domain.Booking;
 import domain.Question;
 import domain.Registered;
 import domain.User;
@@ -65,7 +64,7 @@ public interface BLFacade  {
 	@WebMethod public void initializeBD();
 	
 	
-	@WebMethod public boolean register_old(String usr, String psw1,String psw2);
+	@WebMethod public boolean registerOld(String usr, String psw1,String psw2);
 	
 	@WebMethod public boolean register(String usr,String pas1,String pas2, String email,String nam,String snam, Integer cc);
 	

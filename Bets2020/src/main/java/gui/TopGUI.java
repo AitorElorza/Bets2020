@@ -1,12 +1,10 @@
 package gui;
 
-import java.awt.BorderLayout;
-import java.awt.EventQueue;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
-import java.util.Date;
 import java.util.ResourceBundle;
 import java.util.Vector;
 
@@ -18,22 +16,20 @@ import businessLogic.BLFacade;
 import domain.Apustua;
 import domain.Kuota;
 import domain.Mugimendua;
-import domain.MultipleBet;
 import domain.Registered;
 
 import javax.swing.JLabel;
-import javax.swing.JSpinner;
 import javax.swing.JButton;
 import javax.swing.JScrollPane;
-import java.awt.ScrollPane;
 import java.awt.Rectangle;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
 public class TopGUI extends JFrame {
 
+	private String etiquetas="Etiquetas";
 	private JPanel contentPane;
-	private JButton btnBet = new JButton(ResourceBundle.getBundle("Etiquetas").getString("Close"));
+	private JButton btnBet = new JButton(ResourceBundle.getBundle(etiquetas).getString("Close"));
 	private final JLabel warn = new JLabel(" ");
 	private final BLFacade b = MainGUI.getBusinessLogic();
 	private JTable table = new JTable();
@@ -41,11 +37,12 @@ public class TopGUI extends JFrame {
 	private DefaultTableModel tableModel;
 	private Registered toRep;
 	
+	
 	private String[] columnNames = new String[] {
-			ResourceBundle.getBundle("Etiquetas").getString("User"), 
-			ResourceBundle.getBundle("Etiquetas").getString("Amount")
+			ResourceBundle.getBundle(etiquetas).getString("User"), 
+			ResourceBundle.getBundle(etiquetas).getString("Amount")
 	};
-	private final JButton viewBets = new JButton(ResourceBundle.getBundle("Etiquetas").getString("ViewBets")); //$NON-NLS-1$ //$NON-NLS-2$
+	private final JButton viewBets = new JButton(ResourceBundle.getBundle(etiquetas).getString("ViewBets")); //$NON-NLS-1$ //$NON-NLS-2$
 	/**
 	 * Create the frame.
 	 */

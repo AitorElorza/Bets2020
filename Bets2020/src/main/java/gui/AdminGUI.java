@@ -26,6 +26,8 @@ import java.awt.event.ActionEvent;
 
 public class AdminGUI extends JFrame {
 	
+	private static final String ETIQUETAS = "Etiquetas";
+
 	private static final long serialVersionUID = 1L;
 
 	private JPanel jContentPane = null;
@@ -97,78 +99,79 @@ public class AdminGUI extends JFrame {
 			jContentPane.add(lblNewLabel);
 			
 			JButton jButtonKuotak = new JButton();
-			jButtonKuotak.setText(ResourceBundle.getBundle("Etiquetas").getString("SetK")); //$NON-NLS-1$ //$NON-NLS-2$
+			jButtonKuotak.setText(ResourceBundle.getBundle(ETIQUETAS).getString("SetK")); //$NON-NLS-1$ //$NON-NLS-2$
 			jButtonKuotak.setBounds(10, 299, 174, 32);
 			jContentPane.add(jButtonKuotak);
+			boolean t = true;
 			jButtonKuotak.addActionListener(new ActionListener() {
 				public void actionPerformed(java.awt.event.ActionEvent e) {
 					JFrame a = new ViewKuotakAdminGUI();
-					a.setVisible(true);
+					a.setVisible(t);
 				}
 			});
 			
-			JButton moreWin = new JButton(ResourceBundle.getBundle("Etiquetas").getString("MoreWin")); //$NON-NLS-1$ //$NON-NLS-2$
+			JButton moreWin = new JButton(ResourceBundle.getBundle(ETIQUETAS).getString("MoreWin")); //$NON-NLS-1$ //$NON-NLS-2$
 			moreWin.setBounds(295, 187, 172, 32);
 			jContentPane.add(moreWin);
 			moreWin.addActionListener(new ActionListener() {
 				public void actionPerformed(java.awt.event.ActionEvent e) {
 					JFrame a = new TopGUI();
-					a.setVisible(true);
+					a.setVisible(t);
 				}
 			});
 			
-			JButton btnMulBet = new JButton(ResourceBundle.getBundle("Etiquetas").getString("MulBet")); //$NON-NLS-1$ //$NON-NLS-2$
+			JButton btnMulBet = new JButton(ResourceBundle.getBundle(ETIQUETAS).getString("MulBet")); //$NON-NLS-1$ //$NON-NLS-2$
 			btnMulBet.setBounds(295, 144, 172, 32);
 			jContentPane.add(btnMulBet);
 			btnMulBet.addActionListener(new ActionListener() {
 				public void actionPerformed(java.awt.event.ActionEvent e) {
 					JFrame a = new MultipleBetGUI();
-					a.setVisible(true);
+					a.setVisible(t);
 				}
 			});
 			
 			
-			JButton btnCancelEvent = new JButton(ResourceBundle.getBundle("Etiquetas").getString("CEvent")); //$NON-NLS-1$ //$NON-NLS-2$
+			JButton btnCancelEvent = new JButton(ResourceBundle.getBundle(ETIQUETAS).getString("CEvent")); //$NON-NLS-1$ //$NON-NLS-2$
 			btnCancelEvent.setBounds(10, 170, 174, 32);
 			jContentPane.add(btnCancelEvent);
 			btnCancelEvent.addActionListener(new ActionListener() {
 				public void actionPerformed(java.awt.event.ActionEvent e) {
 					JFrame a = new CancelEventGUI(new Vector<domain.Event>());
-					a.setVisible(true);
+					a.setVisible(t);
 				}
 			});
 			
 			JButton ViewMov = new JButton("View Movements");
-			ViewMov.setText(ResourceBundle.getBundle("Etiquetas").getString("ViewMov"));
+			ViewMov.setText(ResourceBundle.getBundle(ETIQUETAS).getString("ViewMov"));
 			ViewMov.setBounds(295, 100, 174, 32);
 			jContentPane.add(ViewMov);
 			ViewMov.addActionListener(new ActionListener() {
 				public void actionPerformed(java.awt.event.ActionEvent e) {
 					JFrame a = new ViewMovementsGUI();
-					a.setVisible(true);
+					a.setVisible(t);
 				}
 			});
 			
 			
 			JButton btnDiruaSartu = new JButton("Dirua Sartu");
-			btnDiruaSartu.setText(ResourceBundle.getBundle("Etiquetas").getString("AddMoney"));
+			btnDiruaSartu.setText(ResourceBundle.getBundle(ETIQUETAS).getString("AddMoney"));
 			btnDiruaSartu.setBounds(295, 57, 174, 32);
 			jContentPane.add(btnDiruaSartu);
 			jContentPane.add(getBoton3());
 			jContentPane.add(getBoton2());
 			
-			JButton btnCreateEvent = new JButton(ResourceBundle.getBundle("Etiquetas").getString("CreateEv")); //$NON-NLS-1$ //$NON-NLS-2$
+			JButton btnCreateEvent = new JButton(ResourceBundle.getBundle(ETIQUETAS).getString("CreateEv")); //$NON-NLS-1$ //$NON-NLS-2$
 			btnCreateEvent.addActionListener(new ActionListener() {
 				public void actionPerformed(java.awt.event.ActionEvent e) {
 					JFrame a = new CreateEventGUI(new Vector<Event>());
-					a.setVisible(true);
+					a.setVisible(t);
 				}
 			});
 			
 			btnDiruaSartu.addActionListener(new ActionListener() {
 				public void actionPerformed(java.awt.event.ActionEvent e) {
 					JFrame a = new ATMGUI();
-					a.setVisible(true);
+					a.setVisible(t);
 				}
 			});
 			
@@ -178,24 +181,24 @@ public class AdminGUI extends JFrame {
 			
 			
 			if(appFacadeInterface.getErabitltzailea() instanceof Admin) {
-				btnCreateEvent.setVisible(true);
-				jButtonCreateQuery.setVisible(true);
-				btnCancelEvent.setVisible(true);
+				btnCreateEvent.setVisible(t);
+				jButtonCreateQuery.setVisible(t);
+				btnCancelEvent.setVisible(t);
 				btnDiruaSartu.setVisible(false);
 				ViewMov.setVisible(false);
 				btnMulBet.setVisible(false);
-				jButtonKuotak.setVisible(true);
+				jButtonKuotak.setVisible(t);
 				jButtonQueryQueries.setVisible(false);
 			} 
 			else {
 				btnCreateEvent.setVisible(false);
 				jButtonCreateQuery.setVisible(false);
 				btnCancelEvent.setVisible(false);
-				btnDiruaSartu.setVisible(true);
-				ViewMov.setVisible(true);
-				btnMulBet.setVisible(true);
+				btnDiruaSartu.setVisible(t);
+				ViewMov.setVisible(t);
+				btnMulBet.setVisible(t);
 				jButtonKuotak.setVisible(false);
-				jButtonQueryQueries.setVisible(true);
+				jButtonQueryQueries.setVisible(t);
 			} 
 			
 		}
@@ -212,7 +215,7 @@ public class AdminGUI extends JFrame {
 		if (jButtonCreateQuery == null) {
 			jButtonCreateQuery = new JButton();
 			jButtonCreateQuery.setBounds(10, 256, 174, 32);
-			jButtonCreateQuery.setText(ResourceBundle.getBundle("Etiquetas").getString("CreateQuery")); //$NON-NLS-1$ //$NON-NLS-2$
+			jButtonCreateQuery.setText(ResourceBundle.getBundle(ETIQUETAS).getString("CreateQuery")); //$NON-NLS-1$ //$NON-NLS-2$
 			jButtonCreateQuery.addActionListener(new java.awt.event.ActionListener() {
 				public void actionPerformed(java.awt.event.ActionEvent e) {
 					JFrame a = new CreateQuestionGUI(new Vector<Event>());
@@ -232,7 +235,7 @@ public class AdminGUI extends JFrame {
 		if (jButtonQueryQueries == null) {
 			jButtonQueryQueries = new JButton();
 			jButtonQueryQueries.setBounds(295, 14, 174, 32);
-			jButtonQueryQueries.setText(ResourceBundle.getBundle("Etiquetas").getString("QueryQueries"));
+			jButtonQueryQueries.setText(ResourceBundle.getBundle(ETIQUETAS).getString("QueryQueries"));
 			jButtonQueryQueries.addActionListener(new java.awt.event.ActionListener() {
 				public void actionPerformed(java.awt.event.ActionEvent e) {
 					JFrame a = new ViewKuotakGUI();
@@ -246,7 +249,7 @@ public class AdminGUI extends JFrame {
 	
 	private JLabel getLabel() {
 		if (label == null) {
-			label = new JLabel(ResourceBundle.getBundle("Etiquetas").getString("MainGUI.label.text")); //$NON-NLS-1$ //$NON-NLS-2$
+			label = new JLabel(ResourceBundle.getBundle(ETIQUETAS).getString("MainGUI.label.text")); //$NON-NLS-1$ //$NON-NLS-2$
 			label.setIcon(new ImageIcon(AdminGUI.class.getResource("/resources/main.PNG")));
 			label.setBounds(46, 119, 551, 265);
 		}

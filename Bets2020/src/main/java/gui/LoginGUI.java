@@ -41,7 +41,8 @@ public class LoginGUI extends JFrame {
     JButton btnOmaeWaMou = new JButton("Sartu");
     JButton btnReyister = new JButton("Erregistratu");
     private User logged;
-    private final JLabel lblNewLabel = new JLabel(ResourceBundle.getBundle("Etiquetas").getString("LoginGUI.lblNewLabel.text")); //$NON-NLS-1$ //$NON-NLS-2$
+    private String etiquetas="Etiquetas";
+    private final JLabel lblNewLabel = new JLabel(ResourceBundle.getBundle(etiquetas).getString("LoginGUI.lblNewLabel.text")); //$NON-NLS-1$ //$NON-NLS-2$
 	/**
 	 * Launch the application.
 	 */
@@ -137,7 +138,7 @@ public class LoginGUI extends JFrame {
 				 String psw = new String(passwordField.getPassword());
 				
 				if(!BLF.logIN(usr, psw)) {
-					lblGelchrome.setText(ResourceBundle.getBundle("Etiquetas").getString("Wrongpass"));
+					lblGelchrome.setText(ResourceBundle.getBundle(etiquetas).getString("Wrongpass"));
 					//Egokitu interfaze grafikora
 				}else {
 					
@@ -167,7 +168,7 @@ public class LoginGUI extends JFrame {
 		getContentPane().add(btnReyister);
 		
 		lblGelchrome = new JLabel();
-		lblGelchrome.setText(ResourceBundle.getBundle("Etiquetas").getString("Welcome"));
+		lblGelchrome.setText(ResourceBundle.getBundle(etiquetas).getString("Welcome"));
 		lblGelchrome.setForeground(Color.WHITE);
 		lblGelchrome.setFont(new Font("Arial", Font.PLAIN, 12));
 		lblGelchrome.setBounds(220, 226, 258, 23);
@@ -188,10 +189,10 @@ public class LoginGUI extends JFrame {
 	}
 	
 	private void redibujar() {
-		lblUsername.setText(ResourceBundle.getBundle("Etiquetas").getString("Username"));
-		lblGelchrome.setText(ResourceBundle.getBundle("Etiquetas").getString("Welcome"));
-		lblPassaaaaaa.setText(ResourceBundle.getBundle("Etiquetas").getString("Password"));
-		btnOmaeWaMou.setText(ResourceBundle.getBundle("Etiquetas").getString("Login"));
-		btnReyister.setText(ResourceBundle.getBundle("Etiquetas").getString("Register"));
+		lblUsername.setText(ResourceBundle.getBundle(etiquetas).getString("Username"));
+		lblGelchrome.setText(ResourceBundle.getBundle(etiquetas).getString("Welcome"));
+		lblPassaaaaaa.setText(ResourceBundle.getBundle(etiquetas).getString("Password"));
+		btnOmaeWaMou.setText(ResourceBundle.getBundle(etiquetas).getString("Login"));
+		btnReyister.setText(ResourceBundle.getBundle(etiquetas).getString("Register"));
 	}
 }
