@@ -10,7 +10,7 @@
 
 	<name>Bets2020</name>
 	<url>http://maven.apache.org</url>
-	<build>
+	<build> 
 		<plugins>
 			<plugin>
 				<groupId>org.jacoco</groupId>
