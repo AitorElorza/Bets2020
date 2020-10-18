@@ -18,6 +18,7 @@ import domain.User;
 
 public class TestDataAccess {
 	private User e = new User("erabiltzaile","erabiltzaile");
+	
 	protected  EntityManager  db;
 	protected  EntityManagerFactory emf;
 	
