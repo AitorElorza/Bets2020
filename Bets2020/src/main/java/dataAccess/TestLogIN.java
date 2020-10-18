@@ -12,7 +12,7 @@ public class TestLogIN {
 	}
 
 	@Test
-	public void test() {
+	public void test1() {
 		fail("Not yet implemented");
 	}
 
