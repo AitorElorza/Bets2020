@@ -22,12 +22,12 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="src/main/resources/objectdb.jar"/>
-	<classpathentry kind="lib" path="src/main/resources/jcalendar-1.4.jar"/>
-	<classpathentry kind="lib" path="src/main/resources/irudik.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Aitor/Desktop/SII/Libraries/javax.jws_2.0.0.v201005080400.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Aitor/Desktop/SII/Libraries/javax.xml.bind_2.2.0.v201105210648.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Aitor/Desktop/SII/Libraries/javax.xml.ws_2.1.0.v200902101523.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Aitor/Desktop/SII/Libraries/jre1.8.0_191.zip"/>
+	<classpathentry exported="true" kind="lib" path="src/main/resources/jcalendar-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/main/resources/irudik.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aitor/Desktop/SII/Libraries/javax.jws_2.0.0.v201005080400.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aitor/Desktop/SII/Libraries/javax.xml.bind_2.2.0.v201105210648.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aitor/Desktop/SII/Libraries/javax.xml.ws_2.1.0.v200902101523.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aitor/Desktop/SII/Libraries/jre1.8.0_191.zip"/>
 	<classpathentry kind="lib" path="C:/Users/Aitor/Desktop/SII/Libraries/objectdb-2.8.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
