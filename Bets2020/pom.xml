@@ -59,15 +59,16 @@
 		<sonar.login>f0102e8ee22e98e360abc4fcc000978fc0f8a17d</sonar.login>
 	</properties>
 
-
-	<!-- https://mvnrepository.com/artifact/junit/junit -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.5</version>
+			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+
+
+
 		<dependency>
 			<groupId>com.toedter</groupId>
 			<artifactId>jcalendar</artifactId>
@@ -126,8 +127,8 @@
 			<version>1.9.5</version>
 			<scope>test</scope>
 		</dependency>
-
 	</dependencies>
+
 
 
 
