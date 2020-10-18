@@ -53,7 +53,7 @@
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<sonar.projectKey>AitorElorza_Bets2020</sonar.projectKey>
+	<!-- <sonar.projectKey>AitorElorza_Bets2020</sonar.projectKey> -->
 		<sonar.organization>aitorelorza</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.login>f0102e8ee22e98e360abc4fcc000978fc0f8a17d</sonar.login>
