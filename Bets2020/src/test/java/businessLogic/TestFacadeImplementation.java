@@ -19,6 +19,7 @@ public class TestFacadeImplementation {
 	protected EntityManagerFactory emf;
 	
 	
+	
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
